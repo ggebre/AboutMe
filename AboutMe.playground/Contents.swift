@@ -23,4 +23,5 @@
 import UIKit
 
 var myName = "Getu Gebre"
+var homeTown = "Chicago"
 
